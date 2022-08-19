@@ -144,6 +144,6 @@ public final class BiomeMappings {
             }
             return 1; // Plains
         }
-        return legacyBiome;
+        return 1;
     }
 }
